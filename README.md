@@ -1,2 +1,18 @@
-# android-history-site
-Projeto de site informativo sobre a história do mascote do Android utilizando HTML e CSS.
+# Android History Website
+
+Responsive website about the history of the Android mascot.
+
+## 🚀 Technologies used
+- HTML5
+- CSS3
+
+## 📱 Features
+- Responsive layout
+- Semantic HTML structure
+- Modern UI design
+
+## 🌐 Live demo
+https://seu-usuario.github.io/android-history-site/
+
+## 📌 About
+This project was created for front-end practice and portfolio purposes.
