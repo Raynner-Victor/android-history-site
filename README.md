@@ -12,7 +12,7 @@ Responsive website about the history of the Android mascot.
 - Modern UI design
 
 ## 🌐 Live demo
-https://github.com/Raynner-Victor/android-history-site/
+https://raynner-victor.github.io/android-history-site/
 
 ## 📌 About
 This project was created for front-end practice and portfolio purposes.
