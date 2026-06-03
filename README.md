@@ -1,18 +1,18 @@
-# Android History Website
+Site História do Android
 
-Responsive website about the history of the Android mascot.
+Site responsivo sobre a história do mascote do Android.
 
-## 🚀 Technologies used
-- HTML5
-- CSS3
+🚀 Tecnologias utilizadas
+HTML5
+CSS3
+📱 Funcionalidades
+Layout responsivo
+Estrutura HTML semântica
+Design moderno de interface
+🌐 Demonstração online
 
-## 📱 Features
-- Responsive layout
-- Semantic HTML structure
-- Modern UI design
-
-## 🌐 Live demo
 https://raynner-victor.github.io/android-history-site/
 
-## 📌 About
-This project was created for front-end practice and portfolio purposes.
+📌 Sobre o projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar desenvolvimento front-end e compor meu portfólio.
